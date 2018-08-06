@@ -2,7 +2,7 @@
 class PruebaCommand extends CConsoleCommand
 {
     public function run($args) {
-        Yii::import('application.controllers.SiteController');
+/*        Yii::import('./controllers/');*/
         $controlador = new SiteController('Pruebas');
         $controlador->prueba();
     }
