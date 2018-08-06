@@ -1,0 +1,404 @@
+2018/08/06 15:19:00 [error] [php] include(PruebaCommand.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(170): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(67): CConsoleCommandRunner->createCommand()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once()
+
+2018/08/06 15:19:58 [error] [php] include(PruebaCommand.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(170): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(67): CConsoleCommandRunner->createCommand()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once()
+
+2018/08/06 15:21:32 [error] [php] include(PruebaCommand.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(170): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(67): CConsoleCommandRunner->createCommand()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once()
+
+2018/08/06 15:22:51 [error] [php] include(PruebaCommand.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(170): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(67): CConsoleCommandRunner->createCommand()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once()
+
+2018/08/06 15:25:12 [error] [php] include(ClienteController.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/framework/cli/commands/PruebaCommand.php(6): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once()
+
+2018/08/06 15:25:57 [error] [php] include(SiteController.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/framework/cli/commands/PruebaCommand.php(6): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once()
+
+2018/08/06 15:26:16 [error] [php] include(SiteController.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/framework/cli/commands/PruebaCommand.php(6): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once()
+
+2018/08/06 15:26:43 [error] [exception.CException] CException: Alias "/var/www/html/yii/demos/helloworld/protected/controllers/SiteController.php" is invalid. Make sure it points to an existing directory or file. in /var/www/html/yii/framework/YiiBase.php:355
+Stack trace:
+#0 /var/www/html/yii/framework/cli/commands/PruebaCommand.php(5): YiiBase::import('/var/www/html/y...', true)
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:27:41 [error] [php] include(SiteController.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/framework/cli/commands/PruebaCommand.php(6): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/framework/cli/views/webapp/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/framework/cli/views/webapp/protected/yiic(4): require_once()
+
+2018/08/06 15:34:42 [error] [php] include(SiteController.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 15:37:54 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(328): require()
+#2 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): import()
+#3 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#4 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#6 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#7 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#8 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 15:39:21 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(463): include()
+#2 unknown(0): autoload()
+#3 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#4 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#5 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#7 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#8 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#9 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 15:39:57 [error] [php] include(SiteController.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 15:40:21 [error] [exception.CException] CException: Alias "application.components.controllers.SiteController" is invalid. Make sure it points to an existing PHP file and the file is readable. in /var/www/html/yii/framework/YiiBase.php:330
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): YiiBase::import('application.com...', true)
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:50:45 [error] [exception.CException] CException: Alias "helloworld.controllers.SiteController" is invalid. Make sure it points to an existing directory or file. in /var/www/html/yii/framework/YiiBase.php:355
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): YiiBase::import('helloworld.cont...', true)
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:50:57 [error] [exception.CException] CException: Alias "helloworld.controllers" is invalid. Make sure it points to an existing directory or file. in /var/www/html/yii/framework/YiiBase.php:355
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): YiiBase::import('helloworld.cont...', true)
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:51:05 [error] [exception.CException] CException: Alias "helloworld.controllers" is invalid. Make sure it points to an existing directory or file. in /var/www/html/yii/framework/YiiBase.php:355
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): YiiBase::import('helloworld.cont...')
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:51:44 [error] [exception.CException] CException: Alias "../controllers/SiteController.php" is invalid. Make sure it points to an existing directory or file. in /var/www/html/yii/framework/YiiBase.php:355
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): YiiBase::import('../controllers/...')
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:52:00 [error] [exception.CException] CException: Alias "/var/www/html/yii/helloworld/protected/commands/../controllers/SiteController.php" is invalid. Make sure it points to an existing directory or file. in /var/www/html/yii/framework/YiiBase.php:355
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): YiiBase::import('/var/www/html/y...')
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:52:56 [error] [exception.CException] CException: Alias "/var/www/html/yii/helloworld/protected/commands/../controllers/SiteController.php" is invalid. Make sure it points to an existing directory or file. in /var/www/html/yii/framework/YiiBase.php:355
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): YiiBase::import('/var/www/html/y...')
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:53:31 [error] [exception.CException] CException: Alias "/var/www/html/yii/helloworld/protected/commands/../controllers/" is invalid. Make sure it points to an existing directory or file. in /var/www/html/yii/framework/YiiBase.php:355
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(5): YiiBase::import('/var/www/html/y...')
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 15:55:06 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(435): include()
+#2 unknown(0): autoload()
+#3 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#4 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#5 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#7 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#8 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#9 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 15:57:24 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(435): include()
+#2 unknown(0): autoload()
+#3 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#4 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#5 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#7 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#8 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#9 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 15:57:42 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(435): include()
+#2 unknown(0): autoload()
+#3 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#4 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#5 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#7 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#8 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#9 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 15:59:50 [error] [exception.ArgumentCountError] ArgumentCountError: Too few arguments to function CController::__construct(), 0 passed in /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php on line 6 and at least 1 expected in /var/www/html/yii/framework/web/CController.php:110
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): CController->__construct()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 16:00:33 [error] [exception.ArgumentCountError] ArgumentCountError: Too few arguments to function CController::__construct(), 0 passed in /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php on line 6 and at least 1 expected in /var/www/html/yii/framework/web/CController.php:110
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): CController->__construct()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 16:01:16 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(435): include()
+#2 unknown(0): autoload()
+#3 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#4 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#5 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#7 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#8 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#9 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 16:01:36 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(435): include()
+#2 unknown(0): autoload()
+#3 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#4 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#5 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#7 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#8 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#9 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 16:02:02 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(435): include()
+#2 unknown(0): autoload()
+#3 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#4 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#5 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#7 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#8 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#9 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 16:02:54 [error] [php] include(Controller.php): failed to open stream: No such file or directory (/var/www/html/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(3): spl_autoload_call()
+#1 /var/www/html/yii/framework/YiiBase.php(435): include()
+#2 unknown(0): autoload()
+#3 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): spl_autoload_call()
+#4 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run()
+#5 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#7 /var/www/html/yii/framework/yiic.php(33): CConsoleApplication->run()
+#8 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once()
+#9 /var/www/html/yii/helloworld/protected/yiic(4): require_once()
+
+2018/08/06 16:06:40 [error] [exception.ArgumentCountError] ArgumentCountError: Too few arguments to function CController::__construct(), 0 passed in /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php on line 6 and at least 1 expected in /var/www/html/yii/framework/web/CController.php:110
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): CController->__construct()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
+2018/08/06 16:07:23 [error] [exception.CException] CException: CConsoleApplication and its behaviors do not have a method or closure named "getTheme". in /var/www/html/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(589): CComponent->__call('getTheme', Array)
+#1 /var/www/html/yii/framework/web/CController.php(870): CController->getViewFile('index')
+#2 /var/www/html/yii/framework/web/CController.php(785): CController->renderPartial('index', NULL, true)
+#3 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(32): CController->render('index')
+#4 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(7): SiteController->actionIndex()
+#5 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#6 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#10 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#11 {main}
+---
+2018/08/06 16:07:56 [error] [exception.CException] CException: CConsoleApplication and its behaviors do not have a method or closure named "getTheme". in /var/www/html/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(589): CComponent->__call('getTheme', Array)
+#1 /var/www/html/yii/framework/web/CController.php(870): CController->getViewFile('index')
+#2 /var/www/html/yii/framework/web/CController.php(785): CController->renderPartial('index', NULL, true)
+#3 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(32): CController->render('index')
+#4 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(7): SiteController->actionIndex()
+#5 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#6 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#10 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#11 {main}
+---
+2018/08/06 16:09:25 [error] [exception.CException] CException: CConsoleApplication and its behaviors do not have a method or closure named "getTheme". in /var/www/html/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(589): CComponent->__call('getTheme', Array)
+#1 /var/www/html/yii/framework/web/CController.php(870): CController->getViewFile('index')
+#2 /var/www/html/yii/framework/web/CController.php(785): CController->renderPartial('index', NULL, true)
+#3 /var/www/html/yii/helloworld/protected/controllers/SiteController.php(32): CController->render('index')
+#4 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(7): SiteController->actionIndex()
+#5 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#6 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#8 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#9 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#10 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#11 {main}
+---
+2018/08/06 16:10:42 [error] [exception.ArgumentCountError] ArgumentCountError: Too few arguments to function CController::__construct(), 0 passed in /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php on line 6 and at least 1 expected in /var/www/html/yii/framework/web/CController.php:110
+Stack trace:
+#0 /var/www/html/yii/helloworld/protected/commands/PruebaCommand.php(6): CController->__construct()
+#1 /var/www/html/yii/framework/console/CConsoleCommandRunner.php(71): PruebaCommand->run(Array)
+#2 /var/www/html/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#4 /var/www/html/yii/framework/yiic.php(33): CApplication->run()
+#5 /var/www/html/yii/helloworld/protected/yiic.php(7): require_once('/var/www/html/y...')
+#6 /var/www/html/yii/helloworld/protected/yiic(4): require_once('/var/www/html/y...')
+#7 {main}
+---
